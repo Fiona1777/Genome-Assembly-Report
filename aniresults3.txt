@@ -1,0 +1,2 @@
+spadesoutput/scaffolds.fasta	neighbors/nosocomialis.fasta	92.0806	1041	1263
+spadesoutput/scaffolds.fasta	neighbors/pitti.fasta	89.2596	1046	1263

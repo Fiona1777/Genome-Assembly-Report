@@ -1,0 +1,7 @@
+- "left reads":
+  - "/Users/fionashavilof/Desktop/GAASR/Fiona_1.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/Users/fionashavilof/Desktop/GAASR/Fiona_2.fastq"
+  "type": "paired-end"
